@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwalidal&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwalidal" /> </p>
 
-- 🌱 I am currently in the process of **learning Java**
+💻 Skills: Java, SQL, Linux, Spring Boot, Server Management
 
-- 📫 How to reach me **abdulwalidal@gmail.com**
+🌱 Currently learning and mastering Spring Boot
 
-- ✨ Just **drink coffee and code.☕👨‍💻**
-
-<h3 align="left">Connect with me:</h3>
+📫 Reach me at abdulwalidal@gmail.com
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-wali-dal-9653b6288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-wali-dal-9653b6288/" height="30" width="40" /></a>
 </p>
