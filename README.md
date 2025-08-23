@@ -1,21 +1,25 @@
-# 💫 About Me:
-About Me<br><br>Hi, I’m Abdul Wali 👋<br>I’m a Software Engineering student (SWE ’27) with experience in Java, SQL, Linux, and server management. I’ve recently started exploring Spring Boot and building backend applications.<br><br>I enjoy:<br><br>Working with databases and server environments<br><br>Learning and applying modern software development tools<br><br>Always eager to learn and grow as a developer.
+<h1 align="center">Hello 👋,I'm Abdul Wali Dal</h1>
+<h3 align="center">I am an enthusiastic and dedicated software engineering undergraduate</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulwalidal&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwalidal" /> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulwalidal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulwalidal@gmai.com) 
+- 🌱 I am currently in the process of **learning Java**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abdulwalidal&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdulwalidal&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwalidal&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+- 📫 How to reach me **abdulwalidal@gmail.com**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=abdulwalidal&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
+- ✨ Just **drink coffee and code.☕👨‍💻**
 
----
-[![](https://visitcount.itsvg.in/api?id=abdulwalidal&icon=0&color=0)](https://visitcount.itsvg.in)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-wali-dal-9653b6288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-wali-dal-9653b6288/" height="30" width="40" /></a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwalidal&show_icons=true&locale=en&layout=compact" alt="abdulwalidal" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwalidal&show_icons=true&locale=en" alt="abdulwalidal" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwalidal&" alt="abdulwalidal" /></p>
+
