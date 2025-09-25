@@ -1,16 +1,13 @@
-<!-- Banner GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
-</p>
+<!-- Right-aligned GIF -->
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 # About Me
-Hi, I’m **Abdul Wali Dal** — a **Software Engineering undergrad (Batch ’27)** who enjoys learning how to code and build useful things.  
-Currently, I’m focusing on **Java, SQL, Linux, and Spring Boot** to strengthen my backend development skills.  
 
-I love building small projects to practice and improve, and step by step I’m working towards becoming a skilled developer.  
-My goals are to get better at **problem-solving**, understand **real-world development**, and prepare myself for future opportunities.  
+Hi, I’m **Abdul Wali Dal** — a Software Engineering undergraduate (Batch ’27) who enjoys building, learning, and solving problems through code.
 
-*"Turning coffee into code, one line at a time."*  
+Right now, I’m focusing on **Spring Boot**, while also strengthening my core skills in **Java**. Along the way, I’ve picked up skills in **SQL, Linux, Python, C++, and Azure**.
+
+I enjoy building small projects that help me practice and learn how real-world apps are made. Development is a journey for me — starting simple, making it work, and improving step by step.
 
 ---
 
