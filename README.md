@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hello , I'm Abdul Wali Dal</h1>
-<h3 align="center">Enthusiastic and dedicated Software Engineering undergraduate (SWE '27)</h3>
+<h3 align="center"> Software Engineering undergraduate (SWE '27)</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abdulwalidal&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwalidal" /> 
