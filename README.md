@@ -1,43 +1,47 @@
-<h1 align="center">Hello 👋, I'm Abdul Wali Dal</h1>
-<h3 align="center">Software Engineering undergraduate (SWE '27)</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=abdulwalidal&label=Profile%20views&color=0e75b6&style=flat" alt="abdulwalidal" /> 
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
-- 💻 **Skills:** Java • SQL • Linux • Server Management • Spring Boot (learning) • C++  
-- 🌱 Currently **learning and mastering Spring Boot**  
-- 📫 Reach me at **abdulwalidal@gmail.com**  
-- ✨ **Just drink coffee and code ☕👨‍💻**
+# About Me
+Hi, I’m **Abdul Wali Dal** — a **Software Engineering undergrad (Batch ’27)** who enjoys learning how to code and build useful things.  
+Currently, I’m focusing on **Java, SQL, Linux, and Spring Boot** to strengthen my backend development skills.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abdul-wali-dal-9653b6288/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+I love building small projects to practice and improve, and step by step I’m working towards becoming a skilled developer.  
+My goals are to get better at **problem-solving**, understand **real-world development**, and prepare myself for future opportunities.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-</p>
+*"Turning coffee into code, one line at a time."*  
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulwalidal&show_icons=true&locale=en&layout=compact" alt="abdulwalidal Top Languages" />
-</p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwalidal&show_icons=true&locale=en" alt="abdulwalidal GitHub Stats" /></p>
+---
+
+## Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wali-dal-9653b6288/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulwalidal@gmail.com)  
+
+---
+
+# Tech Stack
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+
+---
+
+# GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=abdulwalidal&theme=shadow_green&hide_border=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abdulwalidal&theme=shadow_green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwalidal&theme=shadow_green&hide_border=true&layout=compact)
+
+---
+
+### Visitor Count
+[![](https://visitcount.itsvg.in/api?id=abdulwalidal&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
