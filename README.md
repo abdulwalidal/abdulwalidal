@@ -3,7 +3,7 @@
 ###
 
 
-<h1 align="center">Hello 👋, I'm Abdul Wali Dal</h1>
+<h1 align="center">Hello , I'm Abdul Wali Dal</h1>
 <h3 align="center">Enthusiastic and dedicated Software Engineering undergraduate (SWE '27)</h3>
 
 <p align="left"> 
@@ -48,13 +48,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulwalidal&show_icons=true&locale=en" alt="abdulwalidal GitHub Stats" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulwalidal&" alt="abdulwalidal Streak Stats" /></p>
 
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hamza-ali1223/Hamza-ali1223/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hamza-ali1223/Hamza-ali1223/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hamza-ali1223/Hamza-ali1223/output/pacman-contribution-graph.svg">
-</picture>
 
 
 
