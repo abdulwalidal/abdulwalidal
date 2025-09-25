@@ -60,7 +60,7 @@
 
 ---
 
-### 🕹️ Contribution Graph
+### 🕹️ Pacman Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulwalidal/abdulwalidal/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulwalidal/abdulwalidal/output/pacman-contribution-graph.svg">
