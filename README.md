@@ -7,7 +7,7 @@ Hi, I’m **Abdul Wali Dal** — a Software Engineering undergraduate (Batch ’
 
 Right now, I’m diving deep into **Spring Boot** while sharpening my core **Java** skills. Along the way, I’ve also explored **SQL, Linux, Python, C++, and Azure**.
 
-I enjoy working on meaningful projects that help me grow as a developer and give me a feel for how real-world applications come together. For me, development is a journey starting simple, making things work, and improving step by step.
+I enjoy working on meaningful projects that help me grow and give me a feel for how real-world applications come together. For me, development is a journey starting simple, making things work, and improving step by step.
 
 
 ---
