@@ -2,21 +2,23 @@ name: Generate Pacman Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every day at midnight
-  workflow_dispatch:
+    - cron: "0 0 * * *" # runs daily
+  workflow_dispatch: # lets you run it manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-contribution-grid-snake@main
+
+      - name: Generate Pacman graph
+        uses: yoshi389111/github-contribution-grid-pacman@main
         with:
           github_user_name: abdulwalidal
           svg_out_path: dist/pacman-contribution-graph.svg
           svg_out_path_dark: dist/pacman-contribution-graph-dark.svg
 
-      - name: Push contribution graph
+      - name: Push Pacman graph
         run: |
           mkdir -p output
           cp dist/*.svg output/
