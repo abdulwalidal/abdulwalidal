@@ -37,8 +37,3 @@ I enjoy building small projects that help me practice and learn how real-world a
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwalidal&theme=shadow_green&hide_border=true&layout=compact)
 
 ---
-
-### Visitor Count
-[![](https://visitcount.itsvg.in/api?id=abdulwalidal&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
