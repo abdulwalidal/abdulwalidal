@@ -3,11 +3,12 @@
 
 # About Me
 
-Hi, I’m **Abdul Wali Dal** — a Software Engineering undergraduate (Batch ’27) who enjoys building, learning, and solving problems through code.
+Hi, I’m **Abdul Wali Dal** — a Software Engineering undergraduate (Batch ’27) who loves building, learning, and solving problems with code.
 
-Right now, I’m focusing on **Spring Boot**, while also strengthening my core skills in **Java**. Along the way, I’ve picked up skills in **SQL, Linux, Python, C++, and Azure**.
+Right now, I’m diving deep into **Spring Boot** while sharpening my core **Java** skills. Along the way, I’ve also explored **SQL, Linux, Python, C++, and Azure**.
 
-I enjoy building small projects that help me practice and learn how real-world apps are made. Development is a journey for me — starting simple, making it work, and improving step by step.
+I enjoy working on meaningful projects that help me grow as a developer and give me a feel for how real-world applications come together. For me, development is a journey — starting simple, making things work, and improving step by step.
+
 
 ---
 
