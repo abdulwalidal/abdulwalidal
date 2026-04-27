@@ -1,37 +1,60 @@
-<!-- Right-aligned GIF -->
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-# About Me
+# Hi, I'm Abdul Wali Dal 👋
 
-Hi, I'm **Abdul Wali Dal** — a Software Engineering undergraduate (Batch '27) who loves building, learning, and solving problems with code.
+**Software Engineering Undergraduate (Batch '27)**
 
-Right now, I'm diving deep into **Spring Boot** while sharpening my core **Java** skills. Along the way, I've also explored **SQL, Linux, Python, C++, and Azure**.
+I'm a software engineering student who enjoys building practical projects and learning by doing.
+Currently focused on **Java** and **Spring Boot**, while steadily improving my understanding of databases, Linux, and clean software design.
 
-I enjoy working on meaningful projects that help me grow and give me a feel for how real-world applications come together. For me, development is a journey starting simple, making things work, and improving step by step.
-
----
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wali-dal-9653b6288/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulwalidal@gmail.com)  
+I believe development is a journey — starting simple, making things work, and refining them over time.
 
 ---
 
-# Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wali-dal-9653b6288/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulwalidal@gmail.com)
 
 ---
 
-# GitHub Stats
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=abdulwalidal&theme=shadow_green&hide_border=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=abdulwalidal&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdulwalidal&theme=shadow_green&hide_border=true&layout=compact)
+## 🛠️ Tech Stack
+
+**Core focus:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Also explored:**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulwalidal&show_icons=true&theme=shadow_green&hide_border=true" alt="Abdul Wali Dal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulwalidal&layout=compact&theme=shadow_green&hide_border=true" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=abdulwalidal&theme=shadow_green&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- Building REST APIs with Spring Boot
+- Relational databases — queries, relationships, and normalization with MySQL
+- Writing cleaner Java — OOP principles, collections, and debugging techniques
+
+Feel free to reach out if you'd like to collaborate or share feedback on any project. 🙂
