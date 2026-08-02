@@ -1,63 +1,57 @@
+<div align="center">
+
 # Abdul Wali Dal
 
-<a href="https://github.com/abdulwalidal">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=3FB950&vCenter=true&width=560&height=30&lines=%24+curl+-s+api.abdulwalidal.dev%2Fstatus;%3E+200+OK+%E2%80%94+backend+developer+online;%3E+running+on+Java+%2B+Spring+Boot" alt="status" />
-</a>
+**Backend Developer · Software Engineering '27**
 
-Backend developer, Software Engineering '27. I don't have a public API — but if I did, it might look like this:
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1500&color=3FB950&center=true&vCenter=true&width=560&height=34&lines=I+build+server-side+systems+with+Java+%26+Spring+Boot;and+ship+products+people+actually+use." alt="tagline" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+I work mostly on the backend — REST APIs, authentication, and databases —
+and I care about understanding *why* things work, not just how.
+
+</div>
+
+<br/>
 
 ---
 
-```java
-@RestController
-@RequestMapping("/abdul-wali-dal")
-public class Developer {
+<div align="center">
 
-    private final String role = "Backend Developer";
+## Featured
 
-    // dependencies wired across 12+ Spring Boot services
-    @Autowired private Java           language;      // primary
-    @Autowired private SpringBoot     framework;     // Web · MVC · Data JPA
-    @Autowired private SpringSecurity auth;          // secured with JWT
-    @Autowired private Database       data;          // MongoDB · MySQL · H2
-    @Autowired private OpenAPI        docs;          // springdoc / Swagger
-    @Autowired private SpringAI       experiments;   // OpenAI integration
+### Wird — Islamic Habits & Dhikr
 
-    @GetMapping("/now")
-    public String currentlyBuilding() {
-        return "REST APIs, auth systems, and products that actually ship.";
-    }
-
-    @GetMapping("/philosophy")
-    public String why() {
-        return "Understand *why* it works — not just how.";
-    }
-}
-```
-
-## ▍Featured &nbsp;·&nbsp; `GET /projects/wird`
-
-> **`200 OK`** &nbsp;·&nbsp; live in production &nbsp;·&nbsp; deployed to Google Play
-
-```json
-{
-  "app":      "Wird — Islamic Habits & Dhikr",
-  "about":    "Build daily Islamic habits and track your dhikr.",
-  "status":   "LIVE",
-  "platform": "Google Play"
-}
-```
+A mobile app for building daily Islamic habits and tracking dhikr.
+Designed, built, and shipped to real users.
 
 <a href="https://play.google.com/store/apps/details?id=io.wird.app">
-  <img src="https://img.shields.io/badge/Get_it_on-Google_Play-3FB950?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" height="38" />
+  <img src="https://img.shields.io/badge/Live_on_Google_Play-3FB950?style=for-the-badge&logo=google-play&logoColor=white" alt="Live on Google Play" height="40" />
 </a>
+
+</div>
+
+<br/>
 
 ---
 
-### `GET` /connect
+<div align="center">
 
-| Route | Response |
-|:--|:--|
-| **`/linkedin`** | [linkedin.com/in/abdul-wali-dal](https://www.linkedin.com/in/abdul-wali-dal-9653b6288/) |
-| **`/email`** | [abdulwalidal@gmail.com](mailto:abdulwalidal@gmail.com) |
-| **`/github`** | [@abdulwalidal](https://github.com/abdulwalidal) |
+## Currently
+
+Going deeper into **Spring Security & JWT**, and refining how I design clean backend APIs.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/abdul-wali-dal-9653b6288/">LinkedIn</a>
+&nbsp;·&nbsp;
+<a href="mailto:abdulwalidal@gmail.com">Email</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/abdulwalidal">GitHub</a>
+
+</div>
