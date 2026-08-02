@@ -6,6 +6,8 @@
 
 Backend developer, Software Engineering '27. I don't have a public API — but if I did, it might look like this:
 
+---
+
 ```java
 @RestController
 @RequestMapping("/abdul-wali-dal")
@@ -33,11 +35,9 @@ public class Developer {
 }
 ```
 
-<br/>
-
 ## ▍Featured &nbsp;·&nbsp; `GET /projects/wird`
 
-> **`200 OK`** &nbsp;·&nbsp; 🟢 live in production &nbsp;·&nbsp; deployed to Google Play
+> **`200 OK`** &nbsp;·&nbsp; live in production &nbsp;·&nbsp; deployed to Google Play
 
 ```json
 {
@@ -52,7 +52,7 @@ public class Developer {
   <img src="https://img.shields.io/badge/Get_it_on-Google_Play-3FB950?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" height="38" />
 </a>
 
-<br/><br/>
+---
 
 ### `GET` /connect
 
