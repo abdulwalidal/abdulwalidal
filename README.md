@@ -7,8 +7,8 @@
 │ $ whoami  │   Runtime   Java + Spring Boot
 │ > backend │   Modules   Spring Web · Data JPA · Security · JWT
 │ > dev_    │   Data      MongoDB · MySQL · H2
-│           │   AI        Spring AI · OpenAI (intelli-assist)
-╰───────────╯   Shipped   Wird — live on Google Play
+│           │   Focus     REST APIs · authentication · databases
+╰───────────╯   Tools     Maven · Lombok · OpenAPI · Git
                 Learning  Spring Security & JWT
                 Connect   LinkedIn · Email · GitHub
 ```
