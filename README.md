@@ -8,7 +8,7 @@
 │ > backend │   Modules   Spring Web · Data JPA · Security · JWT
 │ > dev_    │   Data      MongoDB · MySQL · H2
 │           │   Focus     REST APIs · authentication · databases
-╰───────────╯   Tools     Maven · Lombok · OpenAPI · Git
+╰───────────╯   Testing   JUnit · Spring Boot Test · Postman
                 Learning  Spring Security & JWT
                 Connect   LinkedIn · Email · GitHub
 ```
