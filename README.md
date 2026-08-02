@@ -11,8 +11,15 @@ Backend developer, Software Engineering '27. I don't have a public API — but i
 @RequestMapping("/abdul-wali-dal")
 public class Developer {
 
-    private final String role  = "Backend Developer";
-    private final Stack  stack = Stack.of("Java", "Spring Boot", "Spring Security", "JWT", "MySQL");
+    private final String role = "Backend Developer";
+
+    // dependencies wired across 12+ Spring Boot services
+    @Autowired private Java           language;      // primary
+    @Autowired private SpringBoot     framework;     // Web · MVC · Data JPA
+    @Autowired private SpringSecurity auth;          // secured with JWT
+    @Autowired private Database       data;          // MongoDB · MySQL · H2
+    @Autowired private OpenAPI        docs;          // springdoc / Swagger
+    @Autowired private SpringAI       experiments;   // OpenAI integration
 
     @GetMapping("/now")
     public String currentlyBuilding() {
