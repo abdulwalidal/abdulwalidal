@@ -10,7 +10,6 @@
 │           │   AI        Spring AI · OpenAI (intelli-assist)
 ╰───────────╯   Shipped   Wird — live on Google Play
                 Learning  Spring Security & JWT
-                Uptime    building since 2024
                 Connect   LinkedIn · Email · GitHub
 ```
 
