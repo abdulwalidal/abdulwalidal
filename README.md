@@ -28,21 +28,29 @@ public class Developer {
 
 <br/>
 
-### `GET` /endpoints
+## ▍Featured &nbsp;·&nbsp; `GET /projects/wird`
+
+> **`200 OK`** &nbsp;·&nbsp; 🟢 live in production &nbsp;·&nbsp; deployed to Google Play
+
+```json
+{
+  "app":      "Wird — Islamic Habits & Dhikr",
+  "about":    "Build daily Islamic habits and track your dhikr.",
+  "status":   "LIVE",
+  "platform": "Google Play"
+}
+```
+
+<a href="https://play.google.com/store/apps/details?id=io.wird.app">
+  <img src="https://img.shields.io/badge/Get_it_on-Google_Play-3FB950?style=for-the-badge&logo=google-play&logoColor=white" alt="Get it on Google Play" height="38" />
+</a>
+
+<br/><br/>
+
+### `GET` /connect
 
 | Route | Response |
 |:--|:--|
-| **`/projects/wird`** | [Wird — Islamic Habits & Dhikr](https://play.google.com/store/apps/details?id=io.wird.app) · **live on Google Play** |
-| **`/connect/linkedin`** | [linkedin.com/in/abdul-wali-dal](https://www.linkedin.com/in/abdul-wali-dal-9653b6288/) |
-| **`/connect/email`** | [abdulwalidal@gmail.com](mailto:abdulwalidal@gmail.com) |
-| **`/connect/github`** | [@abdulwalidal](https://github.com/abdulwalidal) |
-
-<br/>
-
-<details>
-<summary><b><code>GET</code> /stack — expand</b></summary>
-<br/>
-
-`Java` · `Spring Boot` · `Spring Security` · `JWT` · `MySQL` · `MongoDB` · `Python` · `Linux` · `Git`
-
-</details>
+| **`/linkedin`** | [linkedin.com/in/abdul-wali-dal](https://www.linkedin.com/in/abdul-wali-dal-9653b6288/) |
+| **`/email`** | [abdulwalidal@gmail.com](mailto:abdulwalidal@gmail.com) |
+| **`/github`** | [@abdulwalidal](https://github.com/abdulwalidal) |
